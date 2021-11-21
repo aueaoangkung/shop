@@ -14,11 +14,6 @@ const data = {
     },
     {
       id: '3',
-<<<<<<< HEAD
-      name: 'Raspberry',
-=======
-      name: 'Raspbarry',
->>>>>>> 1cf753274b79cd8eb0fc50e5daa8643c133d7d40
       price: 500,
       image: 'https://picsum.photos/id/102/4320/3240',
     },
