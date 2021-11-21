@@ -4,18 +4,18 @@ const data = {
       id: '1',
       name: 'แตงโม',
       price: 100,
-      imagesrc :'1.jpg',
+      Image :'1.jpg',
     },
     {
       id: '2',
       name: 'ส้ม',
       price: 50,
-      imagesrc :'2.jpg',
+      img :'2.jpg',
     },
     {
       id: 'มะพร้าว',
       price: 100,
-      imagesrc :'3.jpg',
+      src :'3.jpg',
     },
   ],
 };
